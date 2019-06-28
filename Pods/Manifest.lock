@@ -1,0 +1,21 @@
+PODS:
+  - WWLogging (0.1.0)
+  - WWNetworking (0.1.0)
+
+DEPENDENCIES:
+  - WWLogging (from `Lib/WWLogging`)
+  - WWNetworking (from `Lib/WWNetworking`)
+
+EXTERNAL SOURCES:
+  WWLogging:
+    :path: Lib/WWLogging
+  WWNetworking:
+    :path: Lib/WWNetworking
+
+SPEC CHECKSUMS:
+  WWLogging: 37c3d80b3827997c6585700cb5d30629a3d8f898
+  WWNetworking: d29f8cfba0b29faa7fa4eddeda8855e5ff4fd3de
+
+PODFILE CHECKSUM: aa1af16b72a78d3153379cd3244b2c31b1328006
+
+COCOAPODS: 1.7.0

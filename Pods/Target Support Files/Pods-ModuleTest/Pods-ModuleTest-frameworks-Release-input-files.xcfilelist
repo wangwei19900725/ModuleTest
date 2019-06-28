@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-ModuleTest/Pods-ModuleTest-frameworks.sh
+${BUILT_PRODUCTS_DIR}/WWLogging/WWLogging.framework
+${BUILT_PRODUCTS_DIR}/WWNetworking/WWNetworking.framework
